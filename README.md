@@ -49,11 +49,6 @@ I am Adarsh jaiswal, currently pursuing my engineering majoring in computer scie
 </p>
 
 
-## 💰 Support
-<p>
-<a href='https://ko-fi.com/O4O659E32' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://www.buymeacoffee.com/kaiwalya' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
-</p>
 
 
 ## My GitHub Activity ⚡
