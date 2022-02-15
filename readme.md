@@ -18,7 +18,8 @@ I am Adarsh jaiswal, currently pursuing my engineering majoring in computer scie
 ![CIVO](https://img.shields.io/badge/-CIVO-darkblue?style=flat-square&logo=CIVO)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![KUBERNATES](https://img.shields.io/badge/-KUBERNATES-black?style=flat-square&logo=KUBERNATES)
+![KUBERNATES](https://img.shields.io/badge/-KUBERNATES-black?style=flat-square&logo=KUBERNATES) 
+<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="20"/>&emsp;
 
 
 
@@ -58,3 +59,8 @@ I am Adarsh jaiswal, currently pursuing my engineering majoring in computer scie
 <!--START_SECTION:activity-->
  
 <!--END_SECTION:activity-->
+
+
+## 🖥⌨ Most used Languages 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-jaiss&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
