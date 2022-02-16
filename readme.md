@@ -11,6 +11,21 @@ I am Adarsh jaiswal, currently pursuing my engineering majoring in computer scie
 
 
 
+
+<!--![Website](https://komarev.com/ghpvc/?username=Adarsh-jaiss&label=Profile%20views&color=0e75b6&style=flat)-->
+<!--![Website](https://img.shields.io/github/followers/Adarsh-jaiss?style=social)-->
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Adarsh-jaiss&label=Profile%20views&color=0e75b6&style=flat" alt="Total Profile Views" />
+<img src="https://img.shields.io/github/followers/Adarsh-jaiss?style=social" alt="Total followers on github" />
+
+
+
+
+
+
+
+
 ### DevOps & Cloud Tools:
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
