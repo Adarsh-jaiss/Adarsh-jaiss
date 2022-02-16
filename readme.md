@@ -1,32 +1,18 @@
-## Hi, I am Adarsh! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hi, I am Adarsh! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Adarsh jaiswal, currently pursuing my engineering majoring in computer science .I have started open source contributions from 12th feb 2022. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Adarsh Jaiswal, currently pursuing my engineering majoring in computer science .I have started open source contributions from 12th feb 2022. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Adarshjaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-jaiswal-502643216/)](https://www.linkedin.com/in/adarsh-jaiswal-502643216/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Adarshjaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-jaiswal-502643216/)](https://www.linkedin.com/in/adarsh-jaiswal-502643216/)
 [![Instagram Badge](https://img.shields.io/badge/-Adarsh_jaiss-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adarsh_jaiss/)](https://www.instagram.com/adarsh_jaiss/)
 [![Gmail Badge](https://img.shields.io/badge/-its.adarshjaiss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:its.adarshjaiss@gmail.com)](mailto:its.adarshjaiss@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-twtadarsh-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/TwtAdarsh)](https://twitter.com/TwtAdarsh)
 &ensp;<a href="https://app.daily.dev/adarsh_jaiss"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" 
 	alt="daily.devGitHub" width="30"/></a>
 
-
-
-
 <!--![Website](https://komarev.com/ghpvc/?username=Adarsh-jaiss&label=Profile%20views&color=0e75b6&style=flat)-->
 <!--![Website](https://img.shields.io/github/followers/Adarsh-jaiss?style=social)-->
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Adarsh-jaiss&label=Profile%20views&color=0e75b6&style=flat" alt="Total Profile Views" />
-<img src="https://img.shields.io/github/followers/Adarsh-jaiss?style=social" alt="Total followers on github" />
-
-
-
-
-
-
-
-
-### DevOps & Cloud Tools:
+## DevOps & Cloud Tools
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="CNCF" src="https://img.shields.io/badge/CNCF%20-%23430098.svg?logo=CNCF&logoColor=white"></a>
@@ -36,17 +22,8 @@ I am Adarsh jaiswal, currently pursuing my engineering majoring in computer scie
 ![KUBERNATES](https://img.shields.io/badge/-KUBERNATES-black?style=flat-square&logo=KUBERNATES) 
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="20"/>&emsp;
 
+## Languages and Tools
 
-
- 
-
-
-
-
-
-
-							 
-## Languages and Tools:
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
@@ -56,9 +33,9 @@ I am Adarsh jaiswal, currently pursuing my engineering majoring in computer scie
 </table>
 
 <br />
-
     
 ## 📈 Stats
+
  [![Adarsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=adarsh-jaiss&theme=xcode)](https://git.io/Adarsh-jaiss)
 <p align="center">
 	
@@ -66,16 +43,12 @@ I am Adarsh jaiswal, currently pursuing my engineering majoring in computer scie
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-jaiss&theme=radical" />
 </p>
 
-
-
-
 ## My GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
  
 <!--END_SECTION:activity-->
 
-
-## 🖥⌨ Most used Languages 
+## 🖥⌨ Most used Languages
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-jaiss&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
