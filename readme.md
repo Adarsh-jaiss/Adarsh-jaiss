@@ -26,7 +26,7 @@ I am Adarsh jaiswal, currently pursuing my engineering majoring in computer scie
 
 
 
-### DevOps & Cloud Tools:
+### DevOps & Cloud Tools which i am currently learning:
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="CNCF" src="https://img.shields.io/badge/CNCF%20-%23430098.svg?logo=CNCF&logoColor=white"></a>
