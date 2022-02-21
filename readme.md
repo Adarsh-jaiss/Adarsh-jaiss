@@ -7,7 +7,7 @@ I am Adarsh jaiswal, currently pursuing my engineering majoring in computer scie
 [![Gmail Badge](https://img.shields.io/badge/-its.adarshjaiss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:its.adarshjaiss@gmail.com)](mailto:its.adarshjaiss@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-twtadarsh-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/TwtAdarsh)](https://twitter.com/TwtAdarsh)
 &ensp;<a href="https://app.daily.dev/adarsh_jaiss"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/App%20Icon%20-%20Black.png" title="daily.dev" 
-	alt="daily.devGitHub" width="30"/></a
+	alt="daily.devGitHub" width="30"/></a>
 
 
 
