@@ -1,6 +1,6 @@
-## Hi, I am Adarsh! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<h1 align="center"> Hi, I am Adarsh! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> </h1>
 
-I am Adarsh jaiswal, currently pursuing my engineering majoring in computer science .I have started open source contributions from 12th Febraury 2022. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Adarsh Jaiswal, currently pursuing my engineering majoring in computer science .I have started open source contributions from 12th Febraury 2022. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Adarshjaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-jaiswal-502643216/)](https://www.linkedin.com/in/adarsh-jaiswal-502643216/)
 [![Instagram Badge](https://img.shields.io/badge/-Adarsh_jaiss-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adarsh_jaiss/)](https://www.instagram.com/adarsh_jaiss/)
@@ -59,10 +59,5 @@ I am Adarsh jaiswal, currently pursuing my engineering majoring in computer scie
 
 
 
-## My GitHub Activity ⚡
-
-<!--START_SECTION:activity-->
- 
-<!--END_SECTION:activity-->
 
  
