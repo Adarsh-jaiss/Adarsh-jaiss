@@ -1,6 +1,6 @@
 ## Hi, I am Adarsh! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Adarsh jaiswal, currently pursuing my engineering majoring in computer science .I have started open source contributions from 12th feb 2022. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Adarsh jaiswal, currently pursuing my engineering majoring in computer science .I have started open source contributions from 12th Febraury 2022. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Adarshjaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-jaiswal-502643216/)](https://www.linkedin.com/in/adarsh-jaiswal-502643216/)
 [![Instagram Badge](https://img.shields.io/badge/-Adarsh_jaiss-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adarsh_jaiss/)](https://www.instagram.com/adarsh_jaiss/)
@@ -12,8 +12,6 @@ I am Adarsh jaiswal, currently pursuing my engineering majoring in computer scie
 
 
 
-<!--![Website](https://komarev.com/ghpvc/?username=Adarsh-jaiss&label=Profile%20views&color=0e75b6&style=flat)-->
-<!--![Website](https://img.shields.io/github/followers/Adarsh-jaiss?style=social)-->
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Adarsh-jaiss&label=Profile%20views&color=0e75b6&style=flat" alt="Total Profile Views" />
@@ -75,7 +73,4 @@ I am Adarsh jaiswal, currently pursuing my engineering majoring in computer scie
  
 <!--END_SECTION:activity-->
 
-
-## 🖥⌨ Most used Languages 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-jaiss&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
