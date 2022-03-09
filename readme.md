@@ -57,7 +57,13 @@ I am Adarsh Jaiswal, currently pursuing my engineering majoring in computer scie
 </p>
 
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
 
 
+
+
+<!--END_SECTION:activity-->
 
  
