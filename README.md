@@ -52,10 +52,9 @@ I am Adarsh Jaiswal, currently a student of 12th grade and aspiring to pursue my
 ## 📈 Stats
 
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adarsh-jaiss&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-jaiss&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adarsh-jaiss&show_icons=true&theme=solarized-light" />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-jaiss&theme=solarized-light" />
+  
 </p>
-
 
 
 
