@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I am Adarsh! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> </h1>
+<h1 align="center"> Hi, I am Adarsh! Great to see you here! <imgsrc="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> </h1>
 
 ![lol](https://user-images.githubusercontent.com/96974600/170939202-3af59dcd-ce5d-4f9f-8871-0403eac23811.png)
 
