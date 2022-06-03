@@ -1,11 +1,4 @@
-<h1 align="center"> Hi, I am Adarsh! Great to see you here! <imgsrc="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> </h1>
-
-![lol](https://user-images.githubusercontent.com/96974600/170939202-3af59dcd-ce5d-4f9f-8871-0403eac23811.png)
-
-
-
-
-
+<h1 align="center"> Hi, I am Adarsh! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> </h1>
 
 I am Adarsh Jaiswal, currently a student of 12th grade and aspiring to pursue my engineering majoring in computer science .I have started open source contributions from 12th Febraury 2022. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
