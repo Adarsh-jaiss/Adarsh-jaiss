@@ -23,10 +23,6 @@ In my spare time :-
 
 
 
-
-
-
-
 ## DevOps & Cloud Tools:
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -73,9 +69,11 @@ In my spare time :-
 </p>
 
 
-
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
+
 
 
 
