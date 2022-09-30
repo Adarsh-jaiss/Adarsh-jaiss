@@ -1,85 +1,61 @@
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+
+<h3 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
+
+<!-- Badges template - https://github.com/badges/shields -->
+
+
 <h1 align="center"> Hi, I am Adarsh! Great to see you here! :wave: </h1>
 
-I am Adarsh Jaiswal, currently a student of 12th grade and aspiring to pursue my engineering majoring in computer science .I have started open source contributions from 12th Febraury 2022. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
-In my spare time :- 
-- I love reading books.
-- Working on projects ideas. 
-- Write blog post.
-- I'm always eager to discover new technologies.
-
-
-### Find out more about me & feel free to connect with me here:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Adarshjaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-jaiswal-502643216/)](https://www.linkedin.com/in/adarsh-jaiswal-502643216/)
-[![Instagram Badge](https://img.shields.io/badge/-Adarsh_jaiss-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adarsh_jaiss/)](https://www.instagram.com/adarsh_jaiss/)
-[![Gmail Badge](https://img.shields.io/badge/-its.adarshjaiss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:its.adarshjaiss@gmail.com)](mailto:its.adarshjaiss@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-twtadarsh-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/TwtAdarsh)](https://twitter.com/TwtAdarsh)
-[![Hashnode Badge](https://img.shields.io/badge/-adarshjaiss-darkblue?style=flat-square&logo=hashnode&logoColor=white&link=https://blogbyadarsh.hashnode.dev)](https://blogbyadarsh.hashnode.dev)
+I am an undergrad student majoring in computer science from India. I am a **DevOps** and cloud enthusiast and a **Open Source** advocate 🚩.
+I am always open to collaborating on projects and innovative/disruptive ideas. 
+I belive in collaboration over competition 🤝
 
 
 
 
-
-
-## DevOps & Cloud Tools:
+## <🔩 ToolBox> 
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="CNCF" src="https://img.shields.io/badge/CNCF%20-%23430098.svg?logo=CNCF&logoColor=white"></a>
-![CIVO](https://img.shields.io/badge/-CIVO-darkblue?style=flat-square&logo=CIVO)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![KUBERNATES](https://img.shields.io/badge/-KUBERNATES-black?style=flat-square&logo=KUBERNATES) 
-<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="20"/>&emsp;
-
-
-
- 
-
-
-
-
-
-
-							 
-## Languages and Tools:
-
-<p align="center">
-	
- <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="29"/>
- <img src="https://img.shields.io/badge/-GitHub-purple?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=4B8BBE)
  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visual-studio-code" />&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/-Visual_Studio-violet?style=for-the-badge&logo=visual-studio" />&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/-Jupyter-181717?style=for-the-badge&logo=jupyter" />&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" />&nbsp;&nbsp;&nbsp;&nbsp;
-	
-</tr>
-</table>
+![Kubernetes](https://img.shields.io/badge/-kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visual-studio-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+![Agile&Scrum](https://img.shields.io/badge/-Agile%20%26%20Scrum-orange)
 
-<br />
+
 
 
 <h1 align="center"> 🔥 Contributions: </h1>
 
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adarsh-jaiss&show_icons=true&theme=solarized-light" />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-jaiss&theme=solarized-light" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adarsh-jaiss&show_icons=true&theme=onedark" />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-jaiss&show_icons=true&theme=onedark" />
   
 </p>
 
 
-### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
+## <🙋‍♂️ Connect with me>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Adarshjaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-jaiswal-502643216/)](https://www.linkedin.com/in/adarsh-jaiswal-502643216/)
+[![Instagram Badge](https://img.shields.io/badge/-adarshig_-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adarshig_/)](https://www.instagram.com/adarshig_/)
+[![Gmail Badge](https://img.shields.io/badge/-its.adarshjaiss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:its.adarshjaiss@gmail.com)](mailto:its.adarshjaiss@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-twtadarsh-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/TwtAdarsh)](https://twitter.com/TwtAdarsh)
+[![Hashnode Badge](https://img.shields.io/badge/-adarshjaiss-darkblue?style=flat-square&logo=hashnode&logoColor=white&link=https://blogbyadarsh.hashnode.dev)](https://blogbyadarsh.hashnode.dev)
 
-
-
-
-
-
-
-
-
-<!--END_SECTION:activity-->
 
