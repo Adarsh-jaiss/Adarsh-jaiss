@@ -58,4 +58,14 @@ I belive in collaboration over competition 🤝
 [![Twitter Badge](https://img.shields.io/badge/-twtadarsh-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/TwtAdarsh)](https://twitter.com/TwtAdarsh)
 [![Hashnode Badge](https://img.shields.io/badge/-adarshjaiss-darkblue?style=flat-square&logo=hashnode&logoColor=white&link=https://blogbyadarsh.hashnode.dev)](https://blogbyadarsh.hashnode.dev)
 
+## Badges
 
+<html>
+   <head>
+      
+   </head>
+
+   <body>
+      <img src="https://user-images.githubusercontent.com/96974600/193318363-c63f2bac-24ac-47b2-8f73-13cf595df888.jpg" alt="Simply Easy Learning" width ="300" height="300">
+   </body>
+</html>
