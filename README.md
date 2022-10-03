@@ -22,7 +22,12 @@
 
 I am an undergrad student majoring in computer science from India. I am a **DevOps** and cloud enthusiast and a **Open Source** advocate 🚩.
 I am always open to collaborating on projects and innovative/disruptive ideas. 
-I belive in collaboration over competition 🤝
+I belive in collaboration over competition 🤝. These are my recent works :
+
+:pushpin: Part of [Memphis.dev](https://github.com/memphisdev/) release team V.0.3.5
+
+:pushpin: Mainatiner at Hacktoberfest 2022
+
 
 
 
