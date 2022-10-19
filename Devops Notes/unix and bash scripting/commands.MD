@@ -10,6 +10,10 @@
 
             synatx : cat myfile.txt
       
- 
+- ```man``` (manual) - prints the information about the commands
+                  
+               ex:   syantax : man cat
+                            
+                            man pwd
  
                 
