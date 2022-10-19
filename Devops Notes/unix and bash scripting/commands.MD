@@ -76,3 +76,13 @@
                   
                   syantx    : stat file destination/filename
                   syantx ex : stat workspace/code/src/average.c
+
+- ```file``` - Determines file type
+                  
+                  syantx   : file destination
+                  syantx ex: file code/src/average.c
+                  
+- ``` grep``` - searches for pattern in a file 
+
+                  syantx : grep option pattern file directory
+               ex syantx : grep -w printf code/src/*.c
