@@ -5,7 +5,8 @@
       output -  Welcome to Unix
       
  
- - ``` pwd``` - print working directory
+ - ``` pwd``` - print working directory.
+ - ``` cat``` - prints the content of the file.
       
  
  
