@@ -32,3 +32,31 @@ Take a look at the different pieces of the command prompt:
     The server address after the @ sign is specified using a unique combination of words. Codio runs each assignment/lesson as a distinct Ubuntu so you will notice that the server address changes throughout this course.
     The information after the colon is an abbreviation of the current working directory.
     The command line prompt ends with a $
+    
+    
+![image](https://user-images.githubusercontent.com/96974600/196700159-100ded28-f3e3-4d10-8b61-7c3901f59b32.png)
+
+
+#### 4. ```cat``` is the shell command - it is short for “catalog” and it prints out the contents of a file.
+In the terminal window on the left type:
+
+```cat /etc/os-release```
+
+/etc/os-release is the file we are printing out. In a directory called etc there is information about the release we are using, in a file called os-release.
+You should see something like this:
+
+```
+NAME="Ubuntu"
+VERSION="18.04.6 LTS (Bionic Beaver)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu 18.04.6 LTS"
+VERSION_ID="18.04"
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+VERSION_CODENAME=bionic
+UBUNTU_CODENAME=bionic
+```
+
