@@ -27,3 +27,9 @@
             
   >**Note**
   >The -R argument stands for recursive. This is a very important argument when you are dealing with directories because you can have many nested directories and you may want your commands to apply to them all.
+
+- ``` cd``` - changing directory
+            
+            ex: syantx : cd directory-name 
+                         cd test
+                         
