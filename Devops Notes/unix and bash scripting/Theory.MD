@@ -80,4 +80,24 @@ UBUNTU_CODENAME=bionic
 
 ![image](https://user-images.githubusercontent.com/96974600/196781158-8b5db629-91d6-4edd-8457-0ad02d8ab829.png)
 
+![image](https://user-images.githubusercontent.com/96974600/196782560-ba7ce56b-39d9-48ff-bf26-1c5839b54f73.png)
+
+![image](https://user-images.githubusercontent.com/96974600/196782833-5f9498c0-8a1c-438e-94b4-40fdd5d8f18a.png)
+
+![image](https://user-images.githubusercontent.com/96974600/196783497-7a25dbb1-ee28-4fc9-9dc3-0c59aa75acf7.png)
+
+![image](https://user-images.githubusercontent.com/96974600/196783682-a0c35d48-be60-43c0-8a12-c75b09acba02.png)
+
+![image](https://user-images.githubusercontent.com/96974600/196784283-97a39865-b89f-4332-8b5e-918e2d23a13f.png)
+
+![image](https://user-images.githubusercontent.com/96974600/196784750-5f1f2539-4ef9-4613-9a31-593821a6cca6.png)
+
+
+
+
+
+
+
+
+
 
