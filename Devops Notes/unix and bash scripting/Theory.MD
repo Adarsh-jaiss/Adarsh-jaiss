@@ -92,6 +92,9 @@ UBUNTU_CODENAME=bionic
 
 ![image](https://user-images.githubusercontent.com/96974600/196784750-5f1f2539-4ef9-4613-9a31-593821a6cca6.png)
 
+![image](https://user-images.githubusercontent.com/96974600/196785554-b9384968-82d0-420a-a0f3-5056c62d298b.png)
+
+![image](https://user-images.githubusercontent.com/96974600/196785823-86425b9d-198a-453c-a188-0a9e5ad7b4b2.png)
 
 
 
