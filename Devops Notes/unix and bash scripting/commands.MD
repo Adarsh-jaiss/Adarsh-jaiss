@@ -46,7 +46,20 @@
 
             syntax : rmdir test
             
-- ```mv``` - moving a file 
+- ```mv``` - moving a file or renaming a file
 
-            syntax : mv 
+            syntax : mv filename destination
+            ex : mv *.c code
+            
+            rename : mv readme.txt README.txt
+            
+- ```cp``` - copy files and directory's
+
+            syantx : cp file.txt FILE.txt
+                     cp -R code backup
+                     tree
+                     
+                     here: The backup directory was created, and the contents of the code directory was copied to the backup directory.
+                     
+               
             
