@@ -12,8 +12,13 @@
  
  - ``` pwd``` - print working directory.
  - ``` cat``` - prints the content of the file.
-
-            synatx : cat myfile.txt
+              - concantenate two files
+              
+              
+            synatx (reading the content of the file) : cat myfile.txt
+            
+            syantx (concantenating two files) : cat anotherfile.txt >> myfile.txt
+            
       
 - ```man``` (manual) - prints the information about the commands
                   
