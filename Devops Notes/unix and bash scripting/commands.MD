@@ -32,4 +32,18 @@
             
             ex: syantx : cd directory-name 
                          cd test
-                         
+           
+- ``` mkdir``` - making a new directory
+
+            synatx : mkdir test
+            check : ls -a
+        
+- ``` touch``` - for creating a new file
+
+            syntax : touch newfile.txt
+            
+- ```rmdir``` - removing empty directory
+
+            syntax : rmdir test
+            
+            
