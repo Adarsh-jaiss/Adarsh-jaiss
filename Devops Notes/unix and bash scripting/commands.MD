@@ -72,4 +72,7 @@
                      here: The backup directory was created, and the contents of the code directory was copied to the backup directory.
                      
                
-            
+ - ```stat``` -  Displays file status using            
+                  
+                  syantx    : stat file destination/filename
+                  syantx ex : stat workspace/code/src/average.c
