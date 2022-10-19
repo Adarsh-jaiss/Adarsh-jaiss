@@ -46,4 +46,7 @@
 
             syntax : rmdir test
             
+- ```mv``` - moving a file 
+
+            syntax : mv 
             
