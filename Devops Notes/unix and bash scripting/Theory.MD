@@ -16,3 +16,19 @@ There is also a set of standard software utilities that accompany the system tha
 Tux, the Linux mascot
 Tux, the Linux mascot
 When people refer to the Linux operating system they mean the kernel as well as the accompanying set of tools and libraries that is actually called GNU. Some people refer to this combination as GNU/Linux (as you see in the message of the day) but we will just refer to the kernel plus the utilities as Linux. For the most part the utilities that are packaged with Linux are functionally equivalent to the utilities with the same name in UNIX, but they have been rewritten.
+
+
+
+#### 4. The Command Line Interface
+The Command Line Interface, better known as CLI, or Shell is one way to interact with your computer. The command line interface which you see in the terminal window on the left is called Bash. It is the default login shell for most Linux distributions. It is considered very portable and is widely used on many UNIX implementations as well as on other operating systems.
+Command Line Prompt
+In the terminal window on the left you will see the command line prompt. It looks something like what you see below:
+
+codio@matrixrudolf-trustgame:~/workspace$
+
+Take a look at the different pieces of the command prompt:
+
+    The first part of the command prompt is the username followed by the @ symbol. On the Ubuntu server you see in the terminal, Codio has automatically created a user called codio.
+    The server address after the @ sign is specified using a unique combination of words. Codio runs each assignment/lesson as a distinct Ubuntu so you will notice that the server address changes throughout this course.
+    The information after the colon is an abbreviation of the current working directory.
+    The command line prompt ends with a $
