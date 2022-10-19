@@ -61,10 +61,8 @@ UBUNTU_CODENAME=bionic
 ```
 
 ### 5. Listing directories
+![image](https://user-images.githubusercontent.com/96974600/196708791-11da00ed-bf5e-4168-a59b-0f027208e8b3.png)
 
->** Note**
->lol
-> Dots in bash are useful utilities that help with navigating the file system using the CLI.
 
 
 
