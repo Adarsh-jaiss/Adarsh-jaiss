@@ -4,6 +4,11 @@
       
       output -  Welcome to Unix
       
+      ex :2 - witing text in a file using echo 
+      
+      synatx : echo "Hello World!" > myfile.txt 
+
+      
  
  - ``` pwd``` - print working directory.
  - ``` cat``` - prints the content of the file.
