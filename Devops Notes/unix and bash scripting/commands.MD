@@ -5,5 +5,8 @@
       output -  Welcome to Unix
       
  
+ - ``` pwd``` - print working directory
+      
+ 
  
                 
