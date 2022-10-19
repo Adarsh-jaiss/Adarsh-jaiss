@@ -63,7 +63,8 @@ UBUNTU_CODENAME=bionic
 ### 5. Listing directories
 
 >** Note**
->Dots in bash are useful utilities that help with navigating the file system using the CLI.
+>lol
+> Dots in bash are useful utilities that help with navigating the file system using the CLI.
 
 
 
