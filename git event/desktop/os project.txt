@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Adarsh">
+    <meta description content="This website covers everything you need to know about open source for beginners" > 
+    <title>open source Guide</title>
+    <link rel="icon" href="GitHub-Mark-32px.png" type="image/x-icon">
+    <link rel="stylesheet" href="git.css" type="text/css">
+</head>
+<body>
+
+    <h1> What is open source</h1>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione dolor beatae voluptatibus ducimus debitis, consequatur, minus, nihil expedita esse eaque sunt voluptate quo? Deleniti recusandae cupiditate sapiente unde. Corporis laboriosam velit nobis! Voluptates rem aliquid fugiat maxime alias dolore id voluptas repellat quos consequuntur earum, aliquam nulla molestiae accusantium quae quas qui ipsa delectus porro odit nemo odio eveniet sapiente placeat. Recusandae molestias ipsum officiis neque quam qui iusto culpa, ad ullam consequuntur et optio a explicabo vero nulla. Doloremque voluptatem distinctio eos eum excepturi earum tempora sint? Sint reprehenderit commodi rerum maxime voluptatum exercitationem, inventore impedit dolore neque repellendus?</p>
+<!-- ------------------------------------------------------------------------------------------------------- -->
+    <h1> Getting started with open source </h1>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi facere asperiores ut voluptatem dicta repellat, eum nulla eveniet natus nobis obcaecati, magnam dolores hic ipsa molestiae repudiandae, vitae ratione atque? Ab, at vel libero minus ipsum sed nihil dolorem ea. Consequatur asperiores tenetur a praesentium ipsam vel pariatur recusandae minus!
+    </p>
+<!-- ------------------------------------------------------------------------------------------------------->
+    <h1> Benefits of open source</h1>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi unde expedita at magnam dolor fugit magni nostrum nisi tempore, laboriosam cupiditate omnis vel veritatis, saepe fugiat provident! Dolorem consequuntur libero corrupti hic laboriosam voluptate est officiis eveniet maxime vero sequi, unde nam. Optio quo laboriosam necessitatibus hic! Magnam, quaerat blanditiis?</p>
+
+<!-- ------------------------------------------------------------------------------------------------------- -->
+    <h1> how to Find open source projects </h1>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima molestiae dolore repellendus ex illo, veritatis numquam sequi. Dicta autem natus perspiciatis nisi atque! Libero, suscipit repellendus architecto quisquam mollitia fuga.</p>
+
+<!-- ------------------------------------------------------------------------------------------------------- -->
+    <h1> How to find good first issues</h1>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda provident quasi alias, dignissimos possimus deleniti, enim eveniet, mollitia consequatur quos exercitationem maxime magni repellendus sequi ad molestias rerum voluptatibus nisi.</p>
+
+<!-- ------------------------------------------------------------------------------------------------------- -->
+    <h1>How to ask your doubts</h1>
+
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam nostrum porro eum ab quisquam asperiores. Amet numquam id temporibus provident magni ad repudiandae, neque, explicabo alias quas soluta sapiente beatae?</p>
+
+<!-- ------------------------------------------------------------------------------------------------------- -->
+    <h1>open source projects for beginners </h1>
+
+    <p>If you are someone who just stepped into tech or searching for some open source projects to contribute , Here's a list of bunch of projects in which you can contribute ,</p>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate voluptates totam recusandae accusamus hic officia magnam perferendis, impedit, aspernatur facilis quidem quos excepturi maxime nobis tempora numquam. Facilis nam fuga aliquid harum id expedita quo delectus neque incidunt deserunt minus voluptas obcaecati iusto ipsa cum tenetur, unde veritatis dicta numquam quasi velit impedit? Odio rem sequi illum
+
+    </p>
+    <!-- ------------------------------------------------------------------------------------------------------- -->
+</body>
+</html>
