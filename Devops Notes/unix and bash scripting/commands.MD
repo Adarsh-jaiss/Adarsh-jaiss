@@ -86,3 +86,6 @@
 
                   syantx : grep option pattern file directory
                ex syantx : grep -w printf code/src/*.c
+               
+               
+- ``` sed``` - (stream editor) - finding and replacing, or searching and deleting.
