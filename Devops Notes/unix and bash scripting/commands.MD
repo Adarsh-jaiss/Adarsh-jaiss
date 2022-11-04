@@ -89,3 +89,9 @@
                
                
 - ``` sed``` - (stream editor) - finding and replacing, or searching and deleting.
+     
+                  synatx : comand patterns  filename  (/p is a print command that will print all the pooh in the myfile.txt )
+                  synatx : sed -n '/Pooh/p' myfile.txt
+                  synatx : sed 's%_%%g' myfile.txt  (for searching '_' and replacing with 'g')
+                  synatx for getting an output in a new console : sed 's%_%%g' myfile.txt > newfile.txt
+                  syntax for Make a change and save it in the original file : sed -i 's%_%%g' myfile.txt
