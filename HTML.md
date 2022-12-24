@@ -1,10 +1,10 @@
-Simple HTML tags
+# Simple HTML tags
 There are many tags available in HTML. Here you will learn about common tags that you'll use as a developer.
 
-Headings
+###  Headings
 Headings allow you to display titles and subtitles on your webpage.
 
-12345678
+```
 <body>
   <h1>Heading 1</h1>
   <h2>Heading 2</h2>
@@ -13,14 +13,19 @@ Headings allow you to display titles and subtitles on your webpage.
   <h5>Heading 5</h5>
   <h6>Heading 6</h6>
 </body>
+
+```
 The following displays in the web browser:
 
-Heading style displayed in browser
+``` Heading style displayed in browser
 Paragraphs
-Paragraphs contain text content.
+Paragraphs contain text content. 
 
-12345
-<p>
+```
+
+
+### <p>
+  
    This paragraph
    contains a lot of lines
    but they are ignored.
@@ -31,10 +36,9 @@ Paragraph style displayed in browser
 Note that putting content on a new line is ignored by the web browser.
 
 
-Line Breaks
+### Line Breaks
 As you've learned, line breaks in the paragraph tag line are ignored by HTML. Instead, they must be specified using the <br> tag. The <br> tag does not need a closing tag.
 
-12345
 <p>
    This paragraph<br>
    contains a lot of lines<br>
@@ -43,20 +47,24 @@ As you've learned, line breaks in the paragraph tag line are ignored by HTML. In
 The following displays in the web browser: 
 
 Line breaks displayed in browser 
-Strong
+
+
+### Strong
+
 Strong tags can be used to indicate that a range of text has importance.
 
-123
 <p>
    No matter how much the dog barks: <strong>don't feed him chocolate</strong>.
 </p>
 The following displays in the web browser: 
 
 Text with strong tag displayed in browser 
-Bold
+
+
+### Bold
 Bold tags can be used to draw the reader's attention to a range of text.
 
-123
+
 <p>
    The primary colors are <b>red</b>, <b>yellow</b> and <b>blue</b>.
 </p>
@@ -68,96 +76,119 @@ The following displays in the web browser:
 Text with strong tag displayed in browser 
 Bold tags should be used to draw attention but not to indicate that something is more important. Consider the following example:
 
-1
 The three core technologies of the Internet are <b>HTML</b>, <b>CSS</b> and <b>Javascript</b>.
 The following displays in the web browser: 
 
 Bold text displayed in browser 
-Emphasis
+
+### Emphasis
 Emphasis tags can be used to add emphasis to text.
 
-123
+
 <p>
    Wake up <em>now</em>!
 </p>
 The following displays in the web browser: 
 
 Text with emphasis tag displayed in browser 
-Italics
+
+### Italics
 Italics tags can be used to offset a range of text.
 
-123
+
 <p>
    The term <i>HTML</i> stands for HyperText Markup Language.
 </p>
 The following displays in the web browser: 
 
 Italic text displayed in browser 
-Emphasis vs. Italics
+
+### Emphasis vs. Italics
 By default both tags will have the same visual effect in the web browser. The only difference is the meaning.
 
 Emphasis tags stress the text contained in them. Let's explore the following example:
 
-1
 I <em>really</em> want ice cream.
 The following displays in the web browser: 
 
 Text with emphasis tag displayed in browser. 
 Italics represent off-set text and should be used for technical terms, titles, a thought or a phrase from another language, for example:
 
-1
+
 My favourite book is <i>Dracula</i>.
 The following displays in the web browser: 
 
 Italic text displayed in browser
 Screen readers will not announce any difference if an italics tag is used.
 
-Lists
+### Lists
 You can add lists to your web pages. There are two types of lists in HTML.
 
 Lists can be unordered using the <ul> tag. List items are specified using the <li> tag, for example:
 
-123456
+```
 <ul>
    <li>Tea</li>
    <li>Sugar</li>
    <li>Milk</li>
 </ul>
-
+```
 This displays in the web browser as:
 
 Bullet style displayed in the browser img10
 Lists can also be ordered using the <ol> tag. Again, list items are specified using the <li> tag.
 
-12345
+```
 <ol>
    <li>Rocky</li>
    <li>Rocky II</li>
    <li>Rocky III</li>
 </ol>
+```
 This displays as the following in the web browser.
 
 Numbered list style displayed in browser img11
-Div tags
+
+### Div Tags
 A <div> tag defines a content division in a HTML document. It acts as a generic container and has no effect on the content unless it is styled by CSS.
 
 The following example shows a <div> element that contains a paragraph element:
 
-123
+```
 <div>
    <p>This is a paragraph inside a div</p>
 </div>
+  
+```
 This displays as the following in the web browser.
 
 Div displayed in browser img12
 It can be nested inside other elements, for example:
 
-12345
+```
 <div>
    <div>
       <p>This is a paragraph inside a div that’s inside another div</p>
    </div>
 </div>
+```
+  
+  
+  ### Anchor tag <a> </a>
+
+  - It is used to link different websites or images
+  
+  ```
+  <a href(hypertext reference) = "" > Descriptive name</a>
+  ```
+  
+  
+  
+  
+  
+  
+  
+  
 This displays in the web browser as:
 
 Div inside a dive displayed in browser 
