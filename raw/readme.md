@@ -32,7 +32,7 @@
         <a href=https://github.com/Mridulklra>
             <img src=https://avatars.githubusercontent.com/u/118498883?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt= Mridul kalra />
             <br />
-            <sub style="font-size:14px"><b></b></sub>
+            <sub style="font-size:14px"><b> mridul kalra</b></sub>
         </a>
     </td>
     
