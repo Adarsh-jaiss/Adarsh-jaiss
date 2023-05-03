@@ -55,11 +55,4 @@ I belive in collaboration over competition 🤝. These are my recent works :
 
 
 
-## <🙋‍♂️ Connect with me>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Adarshjaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-jaiswal-502643216/)](https://www.linkedin.com/in/adarsh-jaiswal-502643216/)
-[![Instagram Badge](https://img.shields.io/badge/-adarshig_-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adarshig_/)](https://www.instagram.com/adarshig_/)
-[![Gmail Badge](https://img.shields.io/badge/-its.adarshjaiss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:its.adarshjaiss@gmail.com)](mailto:its.adarshjaiss@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-twtadarsh-lightblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/TwtAdarsh)](https://twitter.com/TwtAdarsh)
-[![Hashnode Badge](https://img.shields.io/badge/-adarshjaiss-darkblue?style=flat-square&logo=hashnode&logoColor=white&link=https://blogbyadarsh.hashnode.dev)](https://blogbyadarsh.hashnode.dev)
 
