@@ -49,8 +49,7 @@ I belive in collaboration over competition 🤝. These are my recent works :
 <h1 align="center"> 🔥 Contributions: </h1>
 
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adarsh-jaiss&show_icons=true&theme=onedark" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-jaiss&show_icons=true&theme=onedark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adarsh-jaiss&show_icons=true&theme=onedark" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-jaiss&show_icons=true&theme=onedark" />
   
 </p>
 
