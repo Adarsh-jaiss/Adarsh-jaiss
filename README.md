@@ -20,7 +20,7 @@
 <h1 align="center"> Hi, I am Adarsh! Great to see you here! :wave: </h1>
 
 
-I am a first year undergrad student majoring in computer science from India. I am a **DevOps** and cloud enthusiast and a **Open Source** advocate 🚩.
+I am a first year undergrad student majoring in computer science from India. I am a **Go Developer** + **DevOps** and cloud enthusiast and a **Open Source** advocate 🚩.
 I am always open to collaborating on projects and innovative/disruptive ideas. 
 I belive in collaboration over competition 🤝. These are my recent works :
 
