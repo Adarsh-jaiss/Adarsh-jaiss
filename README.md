@@ -20,13 +20,10 @@
 <h1 align="center"> Hi, I am Adarsh! Great to see you here! :wave: </h1>
 
 
-I am a first year undergrad student majoring in computer science from India. I am a **Go Developer** + **DevOps** and cloud enthusiast and a **Open Source** advocate 🚩.
+I am a Second year undergrad student majoring in computer science from India. I am a **Backend Developer** and i primarily work in Golang.
+I'm also a  **DevOps** and cloud enthusiast and loves advocating **Open Source** 🚩.
 I am always open to collaborating on projects and innovative/disruptive ideas. 
-I belive in collaboration over competition 🤝. These are my recent works :
-
-:pushpin: Part of [Memphis.dev](https://github.com/memphisdev/) release team V.0.3.5
-
-:pushpin: Mainatiner at Hacktoberfest 2022
+I belive in collaboration over competition 🤝.
 
 
 
