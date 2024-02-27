@@ -1,4 +1,21 @@
 <!-- ![download](https://user-images.githubusercontent.com/86051118/219541058-2333a156-367a-4a4a-83d7-082176d96d96.png) -->
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+
+<h3 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
+
+<!-- Badges template - https://github.com/badges/shields -->
 
 ## What do I do?
 
@@ -9,9 +26,22 @@
 ---
 
 
+### 📚 Latest Blog Posts:
+  <!-- BLOG-POST-LIST:START -->
+- [How SDLC evolved : DevOps](https://blogbyadarsh.hashnode.dev/how-sdlc-evolved-devops)
+- [Creating a Virtual Machine in google cloud and running NGINX web server;](https://blogbyadarsh.hashnode.dev/creating-a-virtual-machine-in-google-cloud-and-running-nginx-web-server)
+- [Working With Google kubernetes engine: Best practices for begineers](https://blogbyadarsh.hashnode.dev/working-with-gke-google-kubernetes-engine)
+- [Mastering Open Source Contribution: A Comprehensive Guide](https://blogbyadarsh.hashnode.dev/mastering-open-source-contribution-a-comprehensive-guide)
+- [Working with Virtual private networks (VPC)and Virtual machines](https://blogbyadarsh.hashnode.dev/working-with-virtual-private-networks-vpcand-virtual-machines)
+<!-- BLOG-POST-LIST:END -->
+  
+  ---
  
 
 <!--  -->
+**👨‍💻 About me:**
+
+I'm a budding backend developer who specializes in designing and building scalable and robust backend systems. I create content and write tech blogs and contribute to open source. I am a community person and currently I am leading Google Developers Club at my University.
 
 **🔗 Reach out to me on:**
 
