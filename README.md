@@ -28,11 +28,11 @@
 
 ### 📚 Latest Blog Posts:
   <!-- BLOG-POST-LIST:START -->
-- [How SDLC evolved : DevOps](https://blogbyadarsh.hashnode.dev/how-sdlc-evolved-devops)
-- [Creating a Virtual Machine in google cloud and running NGINX web server;](https://blogbyadarsh.hashnode.dev/creating-a-virtual-machine-in-google-cloud-and-running-nginx-web-server)
-- [Working With Google kubernetes engine: Best practices for begineers](https://blogbyadarsh.hashnode.dev/working-with-gke-google-kubernetes-engine)
 - [Mastering Open Source Contribution: A Comprehensive Guide](https://blogbyadarsh.hashnode.dev/mastering-open-source-contribution-a-comprehensive-guide)
-- [Working with Virtual private networks (VPC)and Virtual machines](https://blogbyadarsh.hashnode.dev/working-with-virtual-private-networks-vpcand-virtual-machines)
+- [How SDLC evolved : DevOPs](https://blogbyadarsh.hashnode.dev/how-sdlc-evolved-devops)
+- [Working with Virtual private networks &lpar;VPC&rpar;and Virtual machines](https://blogbyadarsh.hashnode.dev/working-with-virtual-private-networks-vpcand-virtual-machines)
+- [Working With GKE &lpar;Google kubernetes engine&rpar;](https://blogbyadarsh.hashnode.dev/working-with-gke-google-kubernetes-engine)
+- [Creating a Virtual Machine in google cloud and running NGINX web server](https://blogbyadarsh.hashnode.dev/creating-a-virtual-machine-in-google-cloud-and-running-nginx-web-server)
 <!-- BLOG-POST-LIST:END -->
   
   ---
