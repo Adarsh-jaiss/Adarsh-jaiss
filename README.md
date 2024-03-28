@@ -21,7 +21,7 @@
 
 - ☸️Contributor at [shipwright-io](https://shipwright.io/) 
 - ‍🎓Ambassador at [NextArch Foundation](https://nextarch.io/)
-- 🚩 MLSA, GDSC lead'23
+- 🚩 GDSC Lead'23, MLSA
 
 ---
 
