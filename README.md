@@ -47,3 +47,4 @@ I'm a budding backend developer who specializes in designing and building scalab
 
 - [LinkedIn](https://www.linkedin.com/in/adarsh-jaiss/)
 - [Twitter](https://twitter.com/twtadarsh)
+- [website/Resume](https://www.adarshjaiswal.tech/)
