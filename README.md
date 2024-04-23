@@ -20,9 +20,9 @@
 ## What do I do?
 
 - ☸️ Contributor at [shipwright-io](https://shipwright.io/)
-- ✨ Maintainer at [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure extraction for MySQL and PostgreSQL in Go.
 - ‍🎓 Ambassador at [NextArch Foundation](https://nextarch.io/)
 - 🚩 GDSC Lead'23, MLSA
+- ✨ Maintainer at [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure extraction for MySQL and PostgreSQL in Go.
 
 ---
 
