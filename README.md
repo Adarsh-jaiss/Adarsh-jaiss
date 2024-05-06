@@ -26,6 +26,8 @@
 
 ---
 
+### Open Source Docs Posts:
+- [OKD Shipwright MultiArch Builds](https://hackmd.io/PeHcszOaR_6aekd0vfvOAg?view=#OKD-Shipwright-Multi-Arch-Builds)
 
 ### 📚 Latest Blog Posts:
   <!-- BLOG-POST-LIST:START -->
