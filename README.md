@@ -17,7 +17,7 @@
 
 <!-- Badges template - https://github.com/badges/shields -->
 
-## About me:
+### About me:
 
 - 👨‍💻 He/Him 📍 Living in Bhopal, India
 - 🔧 I work as a performance-driven backend engineer, primarily focusing on Go. I specialize in building scalable APIs, managing databases, and optimizing server-side logic.
@@ -25,7 +25,7 @@
 - 🚀 Currently Building [Shipper](https://github.com/adarsh-jaiss/shipper), a tool for creating container images without the need to write Dockerfiles.
 
 
-## What do I do?
+### What do I do?
 
 - ☸️ Contributor at [shipwright-io](https://shipwright.io/)
 - ‍🎓 Ambassador at [NextArch Foundation](https://nextarch.io/)
