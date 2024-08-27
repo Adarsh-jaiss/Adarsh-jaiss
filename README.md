@@ -17,12 +17,21 @@
 
 <!-- Badges template - https://github.com/badges/shields -->
 
+## About me:
+
+- 👨‍💻 He/Him 📍 Living in Bhopal, India
+- 🔧 I work as a performance-driven backend engineer, primarily focusing on Go. I specialize in building scalable APIs, managing databases, and optimizing server-side logic.
+- 💡 Interested in cloud-native applications, microservices architecture, and backend system performance.
+- 🚀 Currently Building [Shipper](https://github.com/adarsh-jaiss/shipper), a tool for creating container images without the need to write Dockerfiles.
+
+
 ## What do I do?
 
 - ☸️ Contributor at [shipwright-io](https://shipwright.io/)
 - ‍🎓 Ambassador at [NextArch Foundation](https://nextarch.io/)
 - 🚩 [NextArch Foundation Ambassador](https://nextarch.io/about/ambassadors/), GDSC Lead'23, MLSA
 - ✨ Developed [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure (schema) extraction and query execution in Go.
+
 
 ---
 
@@ -39,12 +48,8 @@
 <!-- BLOG-POST-LIST:END -->
   
   ---
- 
 
 <!--  -->
-**👨‍💻 About me:**
-
-I'm a budding backend developer who specializes in designing and building scalable and robust backend systems. I create content and write tech blogs and contribute to open source. I am a community person and currently I am leading Google Developers Club at my University.
 
 **🔗 Reach out to me on:**
 
