@@ -19,7 +19,6 @@
 
 ### About me:
 
-- 👨‍💻 He/Him 📍 Living in Bhopal, India
 - 🔧 I work as a performance-driven backend engineer, primarily focusing on Go. I specialize in building scalable APIs, managing databases, and optimizing server-side logic.
 - 💡 Interested in cloud-native applications, microservices architecture, and backend system performance.
 - 🚀 Currently Building [Shipper](https://github.com/adarsh-jaiss/shipper), a tool for creating container images without the need to write Dockerfiles.
@@ -34,12 +33,10 @@
 
 ### Products:
 
-1. [Power Tab](https://powertab.vercel.app/) : a browser extension that let's you save,share and manage your tabs.
-2. [Shipper](https://shipper-ui-gamma.vercel.app/) : a tool for creating container images without the need to write Dockerfiles.
+- [Power Tab](https://powertab.vercel.app/) : a browser extension that let's you save,share and manage your tabs.
+- [Shipper](https://shipper-ui-gamma.vercel.app/) : a tool for creating container images without the need to write Dockerfiles.
 
 
 **🔗 Reach out to me on:**
 
-- [LinkedIn](https://www.linkedin.com/in/adarsh-jaiss/)
-- [Twitter](https://twitter.com/twtadarsh)
-- [website/Resume](https://www.adarshjaiswal.tech/)
+ [LinkedIn](https://www.linkedin.com/in/adarsh-jaiss/)  &nbsp; &nbsp;   [Twitter](https://twitter.com/twtadarsh)  &nbsp; &nbsp;  [website/Resume](https://www.adarshjaiswal.tech/)
