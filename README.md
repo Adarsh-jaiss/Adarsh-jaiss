@@ -23,16 +23,16 @@
 - 💡 Interested in cloud-native applications, microservices architecture, and backend system performance.
 - 🚀 Currently Building [Shipper](https://github.com/adarsh-jaiss/shipper), a tool for creating container images without the need to write Dockerfiles.
 
-
+<!--- ‍
 ### What do I do?
 
 - ☸️ Contributor at [shipwright-io](https://shipwright.io/)
-<!--- ‍🎓 -->
+🎓 
 - 🚩 Ambassador at [NextArch Foundation](https://nextarch.io/), GDSC Lead'23, MLSA
-- ✨ Developed [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure (schema) extraction and query execution in Go.
-
+-->
 ### Products:
 
+- [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure (schema) extraction and query execution in Go.
 - [Power Tab](https://powertab.vercel.app/) : a browser extension that let's you save,share and manage your tabs.
 - [Shipper](https://shipper-ui-gamma.vercel.app/) : a tool for creating container images without the need to write Dockerfiles.
 
