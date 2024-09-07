@@ -32,24 +32,11 @@
 - 🚩 [NextArch Foundation Ambassador](https://nextarch.io/about/ambassadors/), GDSC Lead'23, MLSA
 - ✨ Developed [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure (schema) extraction and query execution in Go.
 
+### Products:
 
----
+1. [Power Tab](https://powertab.vercel.app/) : a browser extension that let's you save,share and manage your tabs.
+2. [Shipper](https://shipper-ui-gamma.vercel.app/) : a tool for creating container images without the need to write Dockerfiles.
 
-### 📝 Open Source Docs Posts:
-- [OKD Shipwright MultiArch Builds](https://hackmd.io/PeHcszOaR_6aekd0vfvOAg?view=#OKD-Shipwright-Multi-Arch-Builds)
-
-### 📚 Latest Blog Posts:
-  <!-- BLOG-POST-LIST:START -->
-- [How Go compilers work and How to deal with cross compilation errors](https://blogbyadarsh.hashnode.dev/how-go-compilers-work-and-how-to-deal-with-cross-compilation-errors)
-- [Mastering Open Source Contribution: A Comprehensive Guide](https://blogbyadarsh.hashnode.dev/mastering-open-source-contribution-a-comprehensive-guide)
-- [How SDLC evolved : DevOPs](https://blogbyadarsh.hashnode.dev/how-sdlc-evolved-devops)
-- [Working with Virtual private networks &lpar;VPC&rpar;and Virtual machines](https://blogbyadarsh.hashnode.dev/working-with-virtual-private-networks-vpcand-virtual-machines)
-- [Working With GKE &lpar;Google kubernetes engine&rpar;](https://blogbyadarsh.hashnode.dev/working-with-gke-google-kubernetes-engine)
-<!-- BLOG-POST-LIST:END -->
-  
-  ---
-
-<!--  -->
 
 **🔗 Reach out to me on:**
 
