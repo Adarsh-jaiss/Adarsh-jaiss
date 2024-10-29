@@ -21,7 +21,7 @@
 
 - 🔧 I work as a performance-driven backend engineer, primarily focusing on Go. I specialize in building scalable APIs, managing databases, and optimizing server-side logic.
 - 💡 Interested in cloud-native applications, microservices architecture, and backend system performance.
-- 🚀 Currently Building [Shipper](https://github.com/adarsh-jaiss/shipper), a tool for creating container images without the need to write Dockerfiles.
+- 🚀 Currently Building [Mailer](), an open source tool for sending mass emails with custom messages/templates via excel sheets.
 
 <!--- ‍
 ### What do I do?
@@ -35,6 +35,10 @@
 - [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure (schema) extraction and query execution in Go.
 - [Power Tab](https://powertab.vercel.app/) : a browser extension that let's you save,share and manage your tabs.
 - [Shipper](https://shipper-ui-gamma.vercel.app/) : an internal developer platform for creating container images without the need to write Dockerfiles.
+
+### Tools :
+
+- [PDF to Plain text convertor](https://transform-doc.vercel.app)
 
 
 **🔗 Reach out to me on:**
