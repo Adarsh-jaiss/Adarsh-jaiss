@@ -32,13 +32,11 @@
 -->
 ### Products:
 
+- [mailify](https://pkg.go.dev/github.com/adarsh-jaiss/mailify) : A Go library & a CLI tool that let's you validate unlimited emails (in bulk via excel sheets) + allows you to do MX lookups.
 - [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure (schema) extraction and query execution in Go.
 - [Power Tab](https://powertab.vercel.app/) : a browser extension that let's you save,share and manage your tabs.
 - [Shipper](https://shipper-ui-gamma.vercel.app/) : an internal developer platform for creating container images without the need to write Dockerfiles.
-
-### Tools :
-
-- [PDF to Plain text convertor](https://transform-doc.vercel.app)
+- [PDF to Plain text convertor](https://transform-doc.vercel.app) : A tool that detects the file type (machine readable or non-readable ) & converts a pdf to plain texts
 
 
 **🔗 Reach out to me on:**
