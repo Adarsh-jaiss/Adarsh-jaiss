@@ -22,6 +22,7 @@
 - 🔧 I work as a performance-driven backend engineer, primarily focusing on Go. I specialize in building scalable APIs, managing databases, and optimizing server-side logic.
 - 💡 Interested in cloud-native applications, microservices architecture, and backend system performance.
 - 🚀 Currently Building [Mailify](github.com/adarsh-jaiss/mailify), an open source tool for verifying and sending mass emails with custom messages/templates via excel sheets.
+- ☸️ Contributor (org member) at a CNCF sandbox project named [shipwright-io](https://shipwright.io/), which is a framework for building container images on kubernetes.
 
 <!--- ‍
 ### What do I do?
@@ -30,7 +31,7 @@
 🎓 
 - 🚩 Ambassador at [NextArch Foundation](https://nextarch.io/), GDSC Lead'23, MLSA
 -->
-### Products:
+### Products/projects (open source) :
 
 - [mailify](https://pkg.go.dev/github.com/adarsh-jaiss/mailify) : A Go library & a CLI tool that let's you validate unlimited emails (in bulk via excel sheets) + allows you to do MX lookups.
 - [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure (schema) extraction and query execution in Go.
