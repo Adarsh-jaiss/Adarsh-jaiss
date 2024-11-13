@@ -21,7 +21,7 @@
 
 - 🔧 I work as a performance-driven backend engineer, primarily focusing on Go. I specialize in building scalable APIs, managing databases, and optimizing server-side logic.
 - 💡 Interested in cloud-native applications, microservices architecture, and backend system performance.
-- 🚀 Currently Building [Mailer](), an open source tool for verifying and sending mass emails with custom messages/templates via excel sheets.
+- 🚀 Currently Building [Mailify](github.com/adarsh-jaiss/mailify), an open source tool for verifying and sending mass emails with custom messages/templates via excel sheets.
 
 <!--- ‍
 ### What do I do?
