@@ -21,22 +21,23 @@
 
 - 🔧 I work as a performance-driven backend engineer, primarily focusing on Go. I specialize in building scalable APIs, managing databases, and optimizing server-side logic.
 - 💡 Interested in cloud-native applications, microservices architecture, and backend system performance.
-- 🚀 Currently Building [Mailify](github.com/adarsh-jaiss/mailify), an open source tool for verifying and sending mass emails with custom messages/templates via excel sheets.
 - ☸️ Contributor (org member) at a CNCF sandbox project named [shipwright-io](https://shipwright.io/), which is a framework for building container images on kubernetes.
+- 🚀 Currently Building [Mailify](github.com/adarsh-jaiss/mailify), an open source tool for verifying and sending mass emails with custom messages/templates via excel sheets.
+- 🚩 Ambassador at [NextArch Foundation](https://nextarch.io/), GDSC Lead'23, MLSA
 
 <!--- ‍
 ### What do I do?
 
 - ☸️ Contributor at [shipwright-io](https://shipwright.io/)
 🎓 
-- 🚩 Ambassador at [NextArch Foundation](https://nextarch.io/), GDSC Lead'23, MLSA
+- 
 -->
 ### Products/projects (open source) :
 
-- [mailify](https://pkg.go.dev/github.com/adarsh-jaiss/mailify) : A Go library & a CLI tool that let's you validate unlimited emails (in bulk via excel sheets) + allows you to do MX lookups.
+- [Mailify](https://pkg.go.dev/github.com/adarsh-jaiss/mailify) : A Go library & a CLI tool that let's you validate unlimited emails (in bulk via excel sheets) + allows you to do MX lookups.
 - [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure (schema) extraction and query execution in Go.
-- [Power Tab](https://powertab.vercel.app/) : a browser extension that let's you save,share and manage your tabs.
-- [Shipper](https://shipper-ui-gamma.vercel.app/) : an internal developer platform for creating container images without the need to write Dockerfiles.
+- [Power Tab](https://powertab.vercel.app/) : A browser extension that let's you save,share and manage your tabs.
+- [Shipper](https://shipper-ui-gamma.vercel.app/) : An internal developer platform for creating container images without the need to write Dockerfiles.
 - [PDF to Plain text convertor](https://transform-doc.vercel.app) : A tool that detects the file type (machine readable or non-readable ) & converts a pdf to plain texts
 
 
