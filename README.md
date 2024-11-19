@@ -1,4 +1,5 @@
 <!-- ![download](https://user-images.githubusercontent.com/86051118/219541058-2333a156-367a-4a4a-83d7-082176d96d96.png) -->
+<!--
 <div>
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
@@ -8,13 +9,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!--
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+ <!--   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
-</p>
-
+<!--  </p> 
 <!-- Badges template - https://github.com/badges/shields -->
 
 ### About me:
