@@ -45,4 +45,4 @@
 
 **🔗 Reach out to me on:**
 
- &nbsp; &nbsp;[Proof of works](https://adarshjaiswal.tech/pow) &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/adarsh-jaiss/)  &nbsp; &nbsp;   [Twitter](https://twitter.com/twtadarsh)  &nbsp; &nbsp;  [website/Resume](https://www.adarshjaiswal.tech/)
+ &nbsp; &nbsp;[Proof of works](https://adarshjaiswal.tech/pow) &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/adarsh-jaiss/)  &nbsp; &nbsp;   [Twitter](https://twitter.com/twtadarsh)  &nbsp; &nbsp;  [website/Resume](https://www.adarshjaiss.vercel.app)
