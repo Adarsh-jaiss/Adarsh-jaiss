@@ -24,7 +24,7 @@
 - 🔧 I work as a performance-driven backend engineer, primarily focusing on Go. I specialize in building scalable APIs, managing databases, and optimizing server-side logic.
 - 💡 Interested in cloud-native applications, microservices architecture, and backend system performance.
 - ☸️ Contributor (org member) at a CNCF sandbox project named [shipwright-io](https://shipwright.io/), which is a framework for building container images on kubernetes.
-- 🚀 Currently Building [Reachify](github.com/adarsh-jais), an open source tool for verifying and sending mass emails with custom messages/templates via excel sheets.
+- 🚀 Currently Building norton.
 - 🚩 Ambassador at [NextArch Foundation](https://nextarch.io/), GDSC Lead'23, MLSA
 
 <!--- ‍
@@ -35,7 +35,7 @@
 - 
 -->
 ### Products/projects (open source) :
-
+- [Reachify](github.com/adarsh-jais), an open source tool for verifying and sending mass emails with custom messages/templates via excel sheets.
 - [Mailify](https://pkg.go.dev/github.com/adarsh-jaiss/mailify) : A Go library & a CLI tool that let's you validate unlimited emails (in bulk via excel sheets) + allows you to do MX lookups.
 - [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure (schema) extraction and query execution in Go.
 - [Power Tab](https://powertab.vercel.app/) : A browser extension that let's you save,share and manage your tabs.
