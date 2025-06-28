@@ -24,7 +24,7 @@
 - 🔧 I work as a performance-driven backend engineer, primarily focusing on Go. I specialize in building scalable APIs, managing databases, and optimizing server-side logic.
 - 💡 Interested in cloud-native applications, microservices architecture, and backend system performance.
 - ☸️ Contributor (org member) at a CNCF sandbox project named [shipwright-io](https://shipwright.io/), which is a framework for building container images on kubernetes.
-- 🚀 Currently Building norton.
+- 🚀 Currently Building 
 - 🚩 Ambassador at [NextArch Foundation](https://nextarch.io/), GDSC Lead'23, MLSA
 
 <!--- ‍
@@ -45,4 +45,4 @@
 
 **🔗 Reach out to me on:**
 
- &nbsp; &nbsp;[Proof of works](https://adarshjaiswal.tech/pow) &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/adarsh-jaiss/)  &nbsp; &nbsp;   [Twitter](https://twitter.com/twtadarsh)  &nbsp; &nbsp;  [website/Resume](https://www.adarshjaiss.vercel.app)
+ &nbsp; &nbsp;[Proof of works](https://adarshjaiswal.tech/pow) &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/adarsh-jaiss/)  &nbsp; &nbsp;   [Twitter](https://twitter.com/twtadarsh)  &nbsp; &nbsp;  [website/Resume](https://drive.google.com/file/d/15NHlfJjXe6mSNDit1oBwuEmy1ay9DpFc/view)
