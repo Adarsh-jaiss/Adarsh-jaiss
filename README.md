@@ -24,7 +24,7 @@
 - 🔧 I work as a performance-driven backend engineer, primarily focusing on Go. I specialize in building scalable APIs, managing databases, and optimizing server-side logic.
 - 💡 Interested in cloud-native applications, microservices architecture, and backend system performance.
 - ☸️ Contributor (org member) at a CNCF sandbox project named [shipwright-io](https://shipwright.io/), which is a framework for building container images on kubernetes.
-- 🚀 Currently Building 
+- 🚀 Currently Building an Chrome extension that can make your browser agentic.
 - 🚩 Ambassador at [NextArch Foundation](https://nextarch.io/), GDSC Lead'23, MLSA
 
 <!--- ‍
@@ -40,9 +40,8 @@
 - [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure (schema) extraction and query execution in Go.
 - [Power Tab](https://powertab.vercel.app/) : A browser extension that let's you save,share and manage your tabs.
 - [Shipper](https://shipper-ui-gamma.vercel.app/) : An internal developer platform for creating container images without the need to write Dockerfiles.
-- [PDF to Plain text convertor](https://transform-doc.vercel.app) : A tool that detects the file type (machine readable or non-readable ) & converts a pdf to plain texts
 
 
 **🔗 Reach out to me on:**
 
- &nbsp; &nbsp;[Proof of works](https://adarshjaiswal.tech/pow) &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/adarsh-jaiss/)  &nbsp; &nbsp;   [Twitter](https://twitter.com/twtadarsh)  &nbsp; &nbsp;  [website/Resume](https://www.adarshjaiswal.xyz/)
+ &nbsp; &nbsp;[Proof of works](https://adarshjaiss.vercel.app/pow) &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/adarsh-jaiss/)  &nbsp; &nbsp;   [Twitter](https://twitter.com/twtadarsh)  &nbsp; &nbsp;  [website/Resume](https://www.adarshjaiswal.xyz/)
