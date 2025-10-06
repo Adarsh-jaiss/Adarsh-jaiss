@@ -35,11 +35,10 @@
 - 
 -->
 ### Products/projects (open source) :
-- [Reachify](github.com/adarsh-jais), an open source tool for verifying and sending mass emails with custom messages/templates via excel sheets.
 - [Mailify](https://pkg.go.dev/github.com/adarsh-jaiss/mailify) : A Go library & a CLI tool that let's you validate unlimited emails (in bulk via excel sheets) + allows you to do MX lookups.
 - [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure (schema) extraction and query execution in Go.
 - [Power Tab](https://powertab.vercel.app/) : A browser extension that let's you save,share and manage your tabs.
-- [Shipper](https://shipper-ui-gamma.vercel.app/) : An internal developer platform for creating container images without the need to write Dockerfiles.
+- [Shipper](https://shipper-ui-gamma.vercel.app/) : An internal developer platform for creating container images without the need to write Dockerfiles. (depricated as of now)
 
 
 **🔗 Reach out to me on:**
