@@ -41,6 +41,3 @@
 - [Shipper](https://shipper-ui-gamma.vercel.app/) : An internal developer platform for creating container images without the need to write Dockerfiles. (depricated as of now)
 
 
-**🔗 Reach out to me on:**
-
- &nbsp; &nbsp;[Proof of works](https://adarshjaiss.vercel.app/pow) &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/adarsh-jaiss/)  &nbsp; &nbsp;   [Twitter](https://twitter.com/twtadarsh)  &nbsp; &nbsp;  [website/Resume](https://www.adarshjaiswal.xyz/)
