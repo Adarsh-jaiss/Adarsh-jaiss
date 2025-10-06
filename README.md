@@ -22,7 +22,7 @@
 ### About me:
 
 - 🔧 I work as a performance-driven backend engineer, primarily focusing on Go, Python. I specialize in building scalable APIs, managing databases, and optimizing server-side logic.
-- ☸️ Contributor (org member) at a CNCF sandbox project named [shipwright-io](https://shipwright.io/), which is a framework for building container images on kubernetes.
+- ☸️ Contributed for a while to (org member) a CNCF sandbox project named [shipwright-io](https://shipwright.io/), which is a framework for building container images on kubernetes.
 - 🚀 Currently Building an Chrome extension that can make your browser agentic.
 - 🚩 Ambassador at [NextArch Foundation](https://nextarch.io/), GDSC Lead'23, MLSA
 
