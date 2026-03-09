@@ -26,10 +26,9 @@
 - 🚀 Currently Building an [Platform to connect Seafarers](https://www.bluviaglobal.com/).
 - 🚩 Ambassador at [NextArch Foundation](https://nextarch.io/), GDSC Lead'23, MLSA
 
-
 -->
 ### Products/projects (open source) :
-- [Social Media Agent](https://drive.google.com/file/d/1vBNbLGAQ0p3Oanf5Za-OzBZgShwFR2gK/view?usp=sharing)4
+- [Social Media Agent](https://drive.google.com/file/d/1vBNbLGAQ0p3Oanf5Za-OzBZgShwFR2gK/view?usp=sharing) - An agentic platform that understands a brand and its audience to generate social media post ideas. It takes into account special occasions and cultural events (e.g., Holi, Diwali, Christmas, Eid, etc.) to create relevant content suggestions. The system gathers user feedback on the ideas, refines them iteratively, and then generates the final social media posts along with creative assets.
 - [Mailify](https://pkg.go.dev/github.com/adarsh-jaiss/mailify) : A Go library & a CLI tool that let's you validate unlimited emails (in bulk via excel sheets) + allows you to do MX lookups.
 - [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure (schema) extraction and query execution in Go.
 - [Shipper](https://shipper-ui-gamma.vercel.app/) : An internal developer platform for creating container images without the need to write Dockerfiles. (depricated as of now)
