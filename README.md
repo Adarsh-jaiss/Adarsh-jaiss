@@ -23,19 +23,20 @@
 
 - 🔧 I work as a performance-driven backend engineer, primarily focusing on Go, Python. I specialize in building scalable APIs, managing databases, and optimizing server-side logic.
 - ☸️ Contributed for a while to (org member) a CNCF sandbox project named [shipwright-io](https://shipwright.io/), which is a framework for building container images on kubernetes.
-- 🚀 Currently Building an Chrome extension that can make your browser agentic.
+- 🚀 Currently Building an [Platform to connect Seafarers](https://www.bluviaglobal.com/).
 - 🚩 Ambassador at [NextArch Foundation](https://nextarch.io/), GDSC Lead'23, MLSA
 
 
 -->
 ### Products/projects (open source) :
-- [Redis Token Managemet](https://github.com/Adarsh-jaiss/redis-token-management-system) : A service for managing access tokens and refresh tokens in go.
-- [Telo AI](https://www.telohive.com/) : AI powered Event planning agent built using langchain and langgraph.
-- [Linkedin/Hire-Assistant](https://github.com/Adarsh-jaiss/linkedin-applicant-automation) : A chrome extension built for HR's to filter out the right fit candidates from linkedin job applications, and download thier resumes in a single click.
-- [Norton](https://norton-ext.vercel.app/) : An AI-powered chrome extension that automates linkedin outreach — from search to connection and follow-ups.
+- [Social Media Agent](https://drive.google.com/file/d/1vBNbLGAQ0p3Oanf5Za-OzBZgShwFR2gK/view?usp=sharing)4
 - [Mailify](https://pkg.go.dev/github.com/adarsh-jaiss/mailify) : A Go library & a CLI tool that let's you validate unlimited emails (in bulk via excel sheets) + allows you to do MX lookups.
 - [xRay](https://pkg.go.dev/github.com/thesaas-company/xray) : A library for Simplifying database structure (schema) extraction and query execution in Go.
-- [Power Tab](https://powertab.vercel.app/) : A browser extension that let's you save,share and manage your tabs.
 - [Shipper](https://shipper-ui-gamma.vercel.app/) : An internal developer platform for creating container images without the need to write Dockerfiles. (depricated as of now)
+- [Linkedin/Hire-Assistant](https://github.com/Adarsh-jaiss/linkedin-applicant-automation) : A chrome extension built for HR's to filter out the right fit candidates from linkedin job applications, and download thier resumes in a single click.
+- [Norton](https://norton-ext.vercel.app/) : An AI-powered chrome extension that automates linkedin outreach — from search to connection and follow-ups. (depricated due to account bans)
+- [Power Tab](https://powertab.vercel.app/) : A browser extension that let's you save,share and manage your tabs.
+- [Redis Token Managemet](https://github.com/Adarsh-jaiss/redis-token-management-system) : A service for managing access tokens and refresh tokens in go.
+
 
 
